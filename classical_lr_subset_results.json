@@ -1,0 +1,18 @@
+{
+  "model": "Logistic Regression (subset, 6 features)",
+  "accuracy": 0.925,
+  "precision": 0.8696,
+  "recall": 1.0,
+  "f1": 0.9302,
+  "roc_auc": 1.0,
+  "confusion_matrix": [
+    [
+      17,
+      3
+    ],
+    [
+      0,
+      20
+    ]
+  ]
+}

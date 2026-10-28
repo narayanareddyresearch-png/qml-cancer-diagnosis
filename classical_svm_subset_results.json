@@ -1,0 +1,18 @@
+{
+  "model": "Linear SVM (subset, 6 features)",
+  "accuracy": 0.95,
+  "precision": 0.9091,
+  "recall": 1.0,
+  "f1": 0.9524,
+  "roc_auc": 0.995,
+  "confusion_matrix": [
+    [
+      18,
+      2
+    ],
+    [
+      0,
+      20
+    ]
+  ]
+}
